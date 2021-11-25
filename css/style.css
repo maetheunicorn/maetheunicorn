@@ -1,8 +1,8 @@
 @font-face {
-font-family: "La Nord";
-src: url("../css/fonts/lanord/lanord_regular.eot");
-src: url("../css/fonts/lanord/lanord_regular.woff") format("woff"),
-src: url("../css/fonts/lanord/lanord_regular.woff2") format("woff2");
+  font-family: 'La Nord';
+  src: url('../css/fonts/lanord/lanord_bold.eot'), url('../css/fonts/lanord/lanord_bold.woff') format('woff'), url('../css/fonts/lanord/lanord_bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
 html {
   overflow: ;
